@@ -10,7 +10,7 @@ it will:
 
 1. validate the script's shebang
 2. make the script executable
-3. create a symlink in your PATH
+3. create a symlink in `~/.her/bin`
 
 ## how to use it?
 
